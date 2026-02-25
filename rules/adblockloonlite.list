@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/02/25 00:29:26
-#!support=4972
+#!date=2026/02/25 08:45:24
+#!support=4971
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -4022,7 +4022,6 @@ DOMAIN-SUFFIX,uniway.cn.com
 DOMAIN-SUFFIX,b.unjs.com
 DOMAIN-SUFFIX,unlitui.com
 DOMAIN-SUFFIX,unypud.cn
-DOMAIN-SUFFIX,uodoo.com
 DOMAIN-SUFFIX,upceshop.cn
 DOMAIN-SUFFIX,uphzxdv.cn
 DOMAIN-SUFFIX,adscfg.uqualities.com
