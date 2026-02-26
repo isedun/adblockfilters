@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260226162141
-! Last modified: 2026/02/26 16:21:41
-! Blocked domains: 4867
+! Version: 20260227002522
+! Last modified: 2026/02/27 00:25:22
+! Blocked domains: 4862
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -1471,6 +1471,7 @@ z2.fakutownee.cn
 falal.cn
 api-ad-callback.falconnet.app
 api-event.falconnet.app
+config.ad.falconnet.app
 fancyapi.com
 openadapi.fancydsp.com
 clickm.fang.com
@@ -1653,7 +1654,6 @@ techgifts.tradeshow.globalsources.com
 1.glook.cn
 sensorsdata.glowapp.vip
 l.glrcy.cn
-gls-magyaror.cfd
 glsmagyarorszg.bond
 glwxw.net
 cpux.gmud.top
@@ -2266,7 +2266,6 @@ tracking.kdnet.net
 elq.keysight.com.cn
 sandbox-elq.keysight.com.cn
 accoun.kfworfy.cn
-kgmuioeiucoe.top
 mail.kguapp.com
 abroad-ad.kingsoft-office-service.com
 cloudservice14.kingsoft-office-service.com
@@ -3002,7 +3001,6 @@ pxwu.cn
 pygokay.cn
 vv1.pyhfxdm.cn
 pzkrgcp.cn
-q-google.cn
 www.q4ee.top
 ssh.q4hwkg.cn
 qawxpzm.cn
@@ -3969,7 +3967,6 @@ v2.uyan.cc
 uyfv.cn
 uyunad.com
 communityen.uyzbss.cn
-v-google.cn
 log.apk.v-mate.mobi
 v-vay.com
 1.v-x.com.cn
@@ -4323,7 +4320,6 @@ wpwpquse.cn
 wrating.com
 wrsdleg.cn
 wsacjdg.cn
-wsdhpk.cn
 wsdiihk.cn
 wsdlhk.cn
 wsdphk.cn
@@ -4870,7 +4866,6 @@ httpdns.zybang.com
 syh.zybang.com
 zygkzytb.cn
 zykwnj.cn
-zyoffice.asia
 og.zyzjpx.cn
 log-auth.zztfly.com
 zztxr.cn
