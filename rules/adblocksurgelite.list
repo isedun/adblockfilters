@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/02/26 00:32:07
-#!support=4851
+#!date=2026/02/26 08:40:08
+#!support=4850
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -602,7 +602,6 @@
 .apk02070oo.xyz
 .apkevery.com
 .app-analytics-services.com
-.app-clash.com.cn
 .app-measurement.com
 .mobile.appchina.com
 .appdriver.cn

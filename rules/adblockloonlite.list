@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/02/26 00:32:07
-#!support=4851
+#!date=2026/02/26 08:40:08
+#!support=4850
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -599,7 +599,6 @@ DOMAIN-SUFFIX,apk02061oo.xyz
 DOMAIN-SUFFIX,apk02070oo.xyz
 DOMAIN-SUFFIX,apkevery.com
 DOMAIN-SUFFIX,app-analytics-services.com
-DOMAIN-SUFFIX,app-clash.com.cn
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,mobile.appchina.com
 DOMAIN-SUFFIX,appdriver.cn
