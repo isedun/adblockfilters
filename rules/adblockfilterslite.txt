@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260227183417
-! Last modified: 2026/02/27 18:34:17
-! Blocked Filters: 42237
+! Version: 20260228001651
+! Last modified: 2026/02/28 00:16:51
+! Blocked Filters: 42243
 !
 ###AC_ad
 ###AD_160
@@ -23721,6 +23721,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@/google-adwords$domain=t3n.de,~third-party
 @@/gtm.js$domain=amd.com
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
+@@/hdful/player.php?video=$stealth=referrer
 @@/hitCount.$script,domain=on.cc
 @@/hitCount_$xmlhttprequest,domain=on.cc
 @@/hls*/*.m3u8$stealth=referrer,domain=techclips.net|b4ucast.com
@@ -29264,6 +29265,7 @@ decider.com#$?#.wtw-card--ad { remove: true; }
 decider.com,bgr.com,skysports.com##div[id^="outbrain_widget"]
 decrypt.co,metabattle.com##div[style^="min-width: 300px;"]
 deep-edge.net,forums.digitalspy.com,marketwatch.com#@#.has-ad
+deepfake-porn.com,deepfucks.com,faply.cc,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
 deepfake-porn.com,deepfucks.com,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
 deepgoretube.site,lewdgames.to#@##fwdevpDiv0
 defence24.com,defence24.pl,energetyka24.com,infosecurity24.pl##:is(aside, .block) a:is([rel="sponsored"], [href*="utm_campaign"]) > span
@@ -32725,6 +32727,11 @@ lenovo.com.cn#?#.imgNewText:has(>footer>.info>.source:contains(/广告/))
 lenovo.com.cn#?#a:-abp-has(>div>p:-abp-contains(广告))
 lenovo.com.cn#?#a:has(>div>p:contains(广告))
 leporno.org/english.js
+leroymerlin.*##.arm-dss-content-sponsored
+leroymerlin.*##.product-thumbnail:has(.o-thumbnail__sponsored)
+leroymerlin.*##.recommendation--sponso
+leroymerlin.*##aside[data-st-name="sponsored"]
+leroymerlin.*##div[data-st-name="sponsored"]
 leroymerlin.*##li[data-product-list-id*="sponsored"]
 lesbian8.com,sortporn.com,bigtitslust.com##.mitaru
 lesbianbliss.com,mywebcamsluts.com,transhero.com##.media_spot
@@ -34754,7 +34761,6 @@ puzzle-minesweeper.com,puzzle-chess.com,puzzle-thermometers.com,puzzle-norinori.
 pv-magazine-australia.com,pv-magazine-usa.com,pv-magazine.*###home-top-rectangle-wrap-1
 pv-magazine-australia.com,pv-magazine-usa.com,pv-magazine.*###home-top-rectangle-wrap-2
 pv-magazine-australia.com,pv-magazine-usa.com,pv-magazine.*###home-top-rectangle-wrap-3
-pvpoke-re.com#$?#div[id^="nitro-"] { remove: true; }
 pwn.pl,translatica.pl###top-banners
 pxedt.net##.ggtext
 pxedt.net##.index_nav_juzhong

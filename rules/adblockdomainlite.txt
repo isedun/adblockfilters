@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260227183417
-! Last modified: 2026/02/27 18:34:17
-! Blocked domains: 4916
+! Version: 20260228001651
+! Last modified: 2026/02/28 00:16:51
+! Blocked domains: 4908
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -932,7 +932,6 @@ accoun.bwdspwj.cn
 ad.bwton.com
 dlogs.bwton.com
 bxwccii.cn
-bybitglobal.club
 byscy.cn
 log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com
 dm.bytedance.com
@@ -1599,7 +1598,6 @@ log.geetest.com
 g.gegeyingshi.com
 image.gentags.com
 code.geonamebase.com
-geowps-office.com.cn
 gepush.com
 getmyip.top
 getui.cn
@@ -1665,7 +1663,6 @@ tradeshow.edm.globalsources.com
 1.glook.cn
 sensorsdata.glowapp.vip
 l.glrcy.cn
-glsmagyarorszg.bond
 glwxw.net
 cpux.gmud.top
 ad.gmw.cn
@@ -1704,7 +1701,6 @@ googletagmanager.com
 googletagservices-cn.com
 googletraveladservices.com
 googlevads-cn.com
-gos-google.com.cn
 gostats.cn
 govkunming.cn
 gpxxbyf.cn
@@ -2505,7 +2501,6 @@ static.app.m.letv.com
 i0.letvimg.com
 i3.letvimg.com
 lhippac.cn
-li-you.com
 li122.cn
 dig.lianjia.com
 lianwangtech.com
@@ -2768,7 +2763,6 @@ cdnjs.mopair-erm.net
 moquanad.com
 morphocoo.cam
 morphocoo.one
-mossy.top
 elq.mouser.cn
 falsaceous.mrbois.cn
 srtb.msn.cn
@@ -2945,7 +2939,6 @@ parking-pcnzz.cn
 partnerboost.com
 passionsex.vip
 bt1.patexplorer.com
-paypalzhanghudenglu.com.cn
 pbaiyho.cn
 pc-google.hl.cn
 ipad.pc899.cn
@@ -4355,7 +4348,6 @@ woniu.com
 analytics.woozooo.com
 statics.woozooo.com
 www.wowostar.cn
-wps-wpsoffice-wps.com.cn
 ad.docer.wps.cn
 dyn.wps.cn
 ios-informationplatform.wps.cn
