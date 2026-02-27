@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/02/27 16:19:54
-#!support=4919
+#!date=2026/02/27 18:34:18
+#!support=4916
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -30,10 +30,6 @@ DOMAIN-SUFFIX,1717.1000uc.com
 DOMAIN-SUFFIX,smartad.10010.com
 DOMAIN-SUFFIX,1.1010pic.com
 DOMAIN-SUFFIX,adm.10jqka.com.cn
-DOMAIN-SUFFIX,eq.10jqka.com.cn
-DOMAIN-SUFFIX,ozone.10jqka.com.cn
-DOMAIN-SUFFIX,stat.10jqka.com.cn
-DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
 DOMAIN-SUFFIX,v.110route.cn
 DOMAIN-SUFFIX,ytx-file.110route.cn
 DOMAIN-SUFFIX,soft.110route.com
@@ -2099,7 +2095,6 @@ DOMAIN-SUFFIX,smetrics.illumina.com.cn
 DOMAIN-SUFFIX,metrics.ilovematlab.cn
 DOMAIN-SUFFIX,smetrics.ilovematlab.cn
 DOMAIN-SUFFIX,imageter.com
-DOMAIN-SUFFIX,imasdk.googleapis.com
 DOMAIN-SUFFIX,img001.com
 DOMAIN-SUFFIX,tj.img4399.com
 DOMAIN-SUFFIX,imlb2c.com
@@ -3994,6 +3989,8 @@ DOMAIN-SUFFIX,unlitui.com
 DOMAIN-SUFFIX,unypud.cn
 DOMAIN-SUFFIX,upceshop.cn
 DOMAIN-SUFFIX,uphzxdv.cn
+DOMAIN-SUFFIX,mobilelog.upqzfile.com
+DOMAIN-SUFFIX,other.upqzfile.com
 DOMAIN-SUFFIX,adscfg.uqualities.com
 DOMAIN-SUFFIX,adsoss.uqualities.com
 DOMAIN-SUFFIX,uqz.com

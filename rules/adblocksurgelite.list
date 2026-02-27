@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/02/27 16:19:54
-#!support=4919
+#!date=2026/02/27 18:34:18
+#!support=4916
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -33,10 +33,6 @@
 .smartad.10010.com
 .1.1010pic.com
 .adm.10jqka.com.cn
-.eq.10jqka.com.cn
-.ozone.10jqka.com.cn
-.stat.10jqka.com.cn
-.vaserviece.10jqka.com.cn
 .v.110route.cn
 .ytx-file.110route.cn
 .soft.110route.com
@@ -2102,7 +2098,6 @@
 .metrics.ilovematlab.cn
 .smetrics.ilovematlab.cn
 .imageter.com
-.imasdk.googleapis.com
 .img001.com
 .tj.img4399.com
 .imlb2c.com
@@ -3997,6 +3992,8 @@
 .unypud.cn
 .upceshop.cn
 .uphzxdv.cn
+.mobilelog.upqzfile.com
+.other.upqzfile.com
 .adscfg.uqualities.com
 .adsoss.uqualities.com
 .uqz.com
