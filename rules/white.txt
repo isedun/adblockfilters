@@ -3,6 +3,8 @@ eq.10jqka.com.cn
 ozone.10jqka.com.cn
 stat.10jqka.com.cn
 vaserviece.10jqka.com.cn
+# https://github.com/217heidai/adblockfilters/issues/216
+upqzfile.com
 # https://github.com/217heidai/adblockfilters/issues/214
 chat.z.ai
 # https://github.com/217heidai/adblockfilters/issues/211
