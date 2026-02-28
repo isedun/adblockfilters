@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/02/28 16:11:49
-#!support=4884
+#!date=2026/03/01 00:10:17
+#!support=4881
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -38,7 +38,6 @@
 .1.11130.com.cn
 .1.11467.com
 .bdwmhz.120askimages.com
-.120jj.cn
 .js1.122cha.com
 .ad.12306.cn
 .123cha.com
@@ -423,7 +422,6 @@
 .statscollector-1-oversea.agora.io
 .tracking.agora.io
 .webcollector-rtm.agora.io
-.ahnbbd.com
 .ahoffice.cn
 .ahov1.top
 .brc.aigrammar.net
@@ -1066,7 +1064,6 @@
 .3.cjcp.cn
 .login.ckzvz.cn
 .clarins.com.cn
-.clash-org.com.cn
 .cleartone.club
 .log-api.cli.im
 .bd1.click.com.cn
