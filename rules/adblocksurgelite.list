@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/01 00:10:17
-#!support=4881
+#!date=2026/03/01 08:47:48
+#!support=4882
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -4448,6 +4448,7 @@
 .register.xmpush.global.xiaomi.com
 .resolver.mi.xiaomi.com
 .sdkconfig.ad.eu.xiaomi.com
+.sdkconfig.ad.rus.xiaomi.com
 .stat.pandora.xiaomi.com
 .stats.music.xiaomi.com
 .storeconfig.mistat.intl.xiaomi.com
