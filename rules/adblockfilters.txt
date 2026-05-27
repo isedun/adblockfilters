@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260527022300
-! Last modified: 2026/05/27 02:23:00
-! Blocked Filters: 117400
+! Version: 20260527112921
+! Last modified: 2026/05/27 11:29:21
+! Blocked Filters: 117402
 !
 ###AC_ad
 ###AD_160
@@ -32384,6 +32384,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||matlab.mathworks.com^$generichide
 @@||matomo.miraheze.org/matomo.js$script,~third-party
 @@||matomo.moeci.com/matomo.js$domain=moeci.com
+@@||matprat.no^$stealth=dpi
 @@||matrix.redditspace.com^$stealth=3p-auth
 @@||matsukiyococokara-online.com/store/*/rtoaster.js
 @@||matzoo.pl^$generichide
@@ -33012,7 +33013,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||nu.nl^$generichide
 @@||nu6i-bg-net.com^$generichide
 @@||nuevos-mu.ucoz.com^$generichide
-@@||nuggad.net^$domain=sportdeutschland.tv
 @@||nulledteam.com/js/*/adsservice.js
 @@||nulledteam.com^$generichide
 @@||nullforums.net/js/*/uvb-tag-ad.js
@@ -34795,7 +34795,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||reuters.com^$generichide
 @@||reutersmedia.net/resources^
 @@||rev.evrensel.net/www/delivery/*.php
-@@||revdownload.com/*.php$generichide
 @@||revive.adsession.com/www/delivery/ck.php$domain=spankwire.com
 @@||rexdlfile.com/index.php?id=$stealth=referrer
 @@||rg-tiles.b-cdn.net^$stealth=referrer
@@ -40171,6 +40170,7 @@ arukereso.hu##.promotion-container
 arydigital.tv###zzright
 arydigital.tv,barakbulletin.com##.bsac
 arynews.tv##.tdi_103
+as.com##.a_rel
 as.com##.ad-e2
 as.com##.slider-producto
 as.com,desdelinux.net,tutiempo.net,ubunlog.com##.publi
@@ -73515,7 +73515,6 @@ reuters.com#?#div[class^="regular-article-layout__inner_"]:has(> div[data-testid
 reuters.com#?#div[class^="regular-article-layout__refinitiv_workspace"]:has(> div[class] > a img[class^="workspace-article-banner"])
 reuters.com#?#h4:contains(Advertisement)
 reuters.com#@#[class^="primary-video__container_"]
-revdownload.com##.text-ads > a
 reverse-dictionary.virock.org#%#//scriptlet('set-constant', 'adsbygoogle', 'emptyArr')
 reverso.net###bottom-mega-rca-box
 reverso.net###locdbanner
@@ -92962,6 +92961,7 @@ zzzyk.com###Tinfo
 ||bookwalker.jp/ex/browser-viewer/unitag_bv.js
 ||bookwalker.jp/v/louis/*/tracks.js
 ||boomerang.com.au^$third-party
+||boomplaymusic.com/BoomPlayer/ad/
 ||boomtrain.com/identify/resolve?
 ||boost-cdn.manatee.dk/config/mboost
 ||boost.manatee.dk/srx/srx_lib_block_$script,other
@@ -104338,6 +104338,8 @@ zzzyk.com###Tinfo
 ||mdsglvod-a.akamaihd.net/vod/2.0/progressive/*/x.mp4$redirect=noopmp4-1s,domain=ttv.pl
 ||mdstrm.com/js/lib/streammetrics.js
 ||mdxprod.io/analytics.js
+||me-qr.com/metrics/
+||me-qr.com/statistic/collect/
 ||me360.com/swt/swt.js
 ||me4track.com^$popup
 ||me680.com/js/*.js
